@@ -1,1 +1,12 @@
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+
+# general settings
+title: Codelouder
+author: Razvan D
+email: razvan@dinica.ro
+twitter_username: razvan_dinica
+github_username: razvandinica
+
+# build settings
+markdown: kramdown
+theme: minima
